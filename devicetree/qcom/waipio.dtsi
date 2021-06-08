@@ -3428,7 +3428,6 @@
 #include "waipio-smp2p.dtsi"
 #include "waipio-regulators.dtsi"
 #include "waipio-usb.dtsi"
-#include "waipio-coresight.dtsi"
 #include "waipio-dma-heaps.dtsi"
 #include "waipio-debug.dtsi"
 #include "waipio-eva.dtsi"
